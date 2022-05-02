@@ -1,5 +1,5 @@
 # Dio-desafio-github-fistrepository
-Desafio de projeto Dio(git/GitHub) 
+Repositorio para por Desafio de projeto(Dio)
 
 ##Links úteis
 [Sintaxe Basica MarkDown](https://Markdownguid.org/basic.syntax/)
